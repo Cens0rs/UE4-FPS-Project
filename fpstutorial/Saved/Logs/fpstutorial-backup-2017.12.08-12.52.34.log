@@ -1,0 +1,1145 @@
+﻿Log file open, 11/19/17 15:05:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: fpstutorial
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1457378693) SRandInit(1457378693).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3709383, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.148746
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3709383
+LogInit: Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Oct 20 2017 10:39:19
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: X:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.19-20.05.35:154][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.19-20.05.35:154][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.19-20.05.35:165][  0]LogInit: Computer: ACTUAL_PUSSY_DE
+[2017.11.19-20.05.35:165][  0]LogInit: User: gameruouqzwh
+[2017.11.19-20.05.35:165][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.19-20.05.35:165][  0]LogInit: High frequency timer resolution =3.914061 MHz
+[2017.11.19-20.05.35:165][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.11.19-20.05.35:166][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.19-20.05.35:166][  0]LogMemory: Process Physical Memory: 275.16 MB used, 275.16 MB peak
+[2017.11.19-20.05.35:166][  0]LogMemory: Process Virtual Memory: 271.95 MB used, 271.95 MB peak
+[2017.11.19-20.05.35:166][  0]LogMemory: Physical Memory: 5066.00 MB used,  3041.15 MB free, 8107.14 MB total
+[2017.11.19-20.05.35:166][  0]LogMemory: Virtual Memory: 684.72 MB used,  3041.15 MB free, 134217728.00 MB total
+[2017.11.19-20.05.35:254][  0]LogInit: Using OS detected language (en-US).
+[2017.11.19-20.05.35:254][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.19-20.05.35:257][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.19-20.05.35:543][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.19-20.05.35:776][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.19-20.05.35:810][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2017.11.19-20.05.35:810][  0]LogD3D11RHI:       6061/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.11.19-20.05.35:812][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.19-20.05.35:812][  0]LogD3D11RHI:       0/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.19-20.05.35:812][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.19-20.05.35:816][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.19-20.05.35:816][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.19-20.05.35:816][  0]LogWindows: EnumDisplayDevices:
+[2017.11.19-20.05.35:816][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2017.11.19-20.05.35:816][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2017.11.19-20.05.35:816][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.11.19-20.05.35:817][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.11.19-20.05.35:817][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.11.19-20.05.35:817][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2017.11.19-20.05.35:817][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.11.19-20.05.35:817][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.11.19-20.05.35:817][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2017.11.19-20.05.35:834][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.19-20.05.35:886][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.19-20.05.35:935][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Intermediate/Shaders/WorkingDirectory/9784/).
+[2017.11.19-20.05.35:935][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gamer_uouqzwh/AppData/Local/Temp/UnrealShaderWorkingDir/FD4574654E26D1C6126EAA8F14CD1F8B/'.
+[2017.11.19-20.05.35:935][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.19-20.05.36:554][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.19-20.05.36:587][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.19-20.05.36:618][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.19-20.05.36:650][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.19-20.05.36:684][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.19-20.05.36:719][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.19-20.05.36:761][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.19-20.05.36:805][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.19-20.05.36:834][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.19-20.05.36:927][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.19-20.05.36:969][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.19-20.05.37:012][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.19-20.05.37:103][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.19-20.05.37:155][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.19-20.05.37:239][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.19-20.05.37:239][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.19-20.05.37:274][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.19-20.05.37:299][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.19-20.05.37:363][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.19-20.05.37:380][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.19-20.05.37:414][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.19-20.05.37:446][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.19-20.05.37:479][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.19-20.05.37:512][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.19-20.05.37:512][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.19-20.05.37:783][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.19-20.05.37:831][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/gamer_uouqzwh/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.19-20.05.37:831][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/gamer_uouqzwh/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.19-20.05.37:831][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.19-20.05.37:831][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.19-20.05.37:831][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.19-20.05.37:831][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.19-20.05.37:842][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.19-20.05.37:854][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gamer_uouqzwh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.19-20.05.37:861][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.19-20.05.37:861][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.19-20.05.37:861][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.19-20.05.37:861][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.19-20.05.38:127][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.19-20.05.38:345][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.19-20.05.38:369][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.19-20.05.38:369][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.19-20.05.38:369][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.19-20.05.38:369][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.19-20.05.38:369][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.19-20.05.38:392][  0]LogNetVersion: fpstutorial , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 724704587)
+[2017.11.19-20.05.38:503][  0]LogAssetRegistry: FAssetRegistry took 0.0243 seconds to start up
+[2017.11.19-20.05.38:859][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.063327 seconds
+[2017.11.19-20.05.38:863][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.19-20.05.38:863][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.11.19-20.05.38:863][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.19-20.05.38:891][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.19-20.05.40:709][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.19-20.05.40:741][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.19-20.05.41:210][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.19-20.05.41:483][  0]SourceControl: Source control is disabled
+[2017.11.19-20.05.41:483][  0]SourceControl: Source control is disabled
+[2017.11.19-20.05.41:520][  0]SourceControl: Source control is disabled
+[2017.11.19-20.05.41:556][  0]SourceControl: Source control is disabled
+[2017.11.19-20.05.42:098][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.19-20.05.42:280][  0]LogOcInput: OculusInput pre-init called
+[2017.11.19-20.05.42:467][  0]LogEngine: Initializing Engine...
+[2017.11.19-20.05.42:469][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.19-20.05.42:608][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.19-20.05.42:608][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.19-20.05.42:688][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.19-20.05.42:696][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-20.05.42:707][  0]LogInit: FAudioDevice initialized.
+[2017.11.19-20.05.42:743][  0]LogDerivedDataCache: Saved boot cache 0.04s 78MB C:/Users/gamer_uouqzwh/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.19-20.05.42:752][  0]LogInit: Texture streaming: Enabled
+[2017.11.19-20.05.42:803][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.19-20.05.42:903][  0]LogInit: Transaction tracking system initialized
+[2017.11.19-20.05.43:090][  0]BlueprintLog: New page: Editor Load
+[2017.11.19-20.05.43:615][  0]LocalizationService: Localization service is disabled
+[2017.11.19-20.05.43:936][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2017.11.19-20.05.43:936][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2017.11.19-20.05.43:936][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2017.11.19-20.05.44:065][  0]LogConsoleResponse: Display: 
+[2017.11.19-20.05.44:193][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.19-20.05.44:193][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.19-20.05.44:193][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.19-20.05.44:955][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/' took 0.04s
+[2017.11.19-20.05.44:955][  0]SourceControl: Source control is disabled
+[2017.11.19-20.05.44:955][  0]Cmd: MAP LOAD FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.19-20.05.44:955][  0]LightingResults: New page: Lighting Build
+[2017.11.19-20.05.44:980][  0]MapCheck: New page: Map Check
+[2017.11.19-20.05.44:980][  0]LightingResults: New page: Lighting Build
+[2017.11.19-20.05.46:178][  0]LogBlueprint: Error: [Compiler ThirdPersonGameMode] This blueprint (self) is not a SpawnPoint_C, therefore ' Target ' must have a connection.
+[2017.11.19-20.05.46:204][  0]LogBlueprint: Error: [Compiler ThirdPersonGameMode] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2017.11.19-20.05.46:204][  0]LogBlueprint: Error: [Compiler ThirdPersonGameMode] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2017.11.19-20.05.46:244][  0]LogBlueprint: Warning: [Compiler ThirdPersonGameMode] [0013.15] Compile of ThirdPersonGameMode failed. 3 Fatal Issue(s) 0 Warning(s) [in 174 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode)
+[2017.11.19-20.05.47:558][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-20.05.47:729][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.19-20.05.47:741][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.19-20.05.47:797][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.184ms to complete.
+[2017.11.19-20.05.47:797][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.841
+[2017.11.19-20.05.48:182][  0]LogCollectionManager: Loaded 0 collections in 0.000726 seconds
+[2017.11.19-20.05.48:311][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Collections/' took 0.01s
+[2017.11.19-20.05.48:311][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/Developers/gameruouqzwh/Collections/' took 0.01s
+[2017.11.19-20.05.48:311][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/Collections/' took 0.01s
+[2017.11.19-20.05.48:311][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.19-20.05.48:318][  0]LogContentBrowser: Native class hierarchy populated in 0.0059 seconds. Added 2363 classes and 519 folders.
+[2017.11.19-20.05.48:387][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.11.19-20.05.49:506][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.11.19-20.05.49:551][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.11.19-20.05.49:796][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.19-20.05.49:808][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.19-20.05.49:834][  0]LogSlate: Took 0.015136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.19-20.05.50:110][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2017.11.19-20.05.50:156][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2017.11.19-20.05.50:351][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.11.19-20.05.50:351][  0]LogLoad: (Engine Initialization) Total time: 17.26 seconds
+[2017.11.19-20.05.50:351][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.19-20.05.50:351][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.19-20.05.50:360][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.19-20.05.50:394][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.19-20.05.50:515][  0]LogSlate: Took 0.007421 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.19-20.05.50:677][  3]LogAssetRegistry: Asset discovery search completed in 12.1952 seconds
+[2017.11.19-20.05.50:682][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.19-20.05.50:682][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2017.11.19-20.05.51:382][ 75]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.19-20.06.17:220][756]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.19-20.06.17:749][756]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 116 classes and 0 folders.
+[2017.11.19-20.06.18:877][756]LogSlate: Took 0.020739 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.19-20.06.19:185][763]LogSlate: Took 0.014206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.19-20.06.38:864][311]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.19-20.06.39:056][311]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.06.39:065][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-20.06.42:190][416]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2017.11.19-20.06.42:224][416]LogBlueprint: Error: [Compiler ThirdPersonGameMode] This blueprint (self) is not a SpawnPoint_C, therefore ' Target ' must have a connection.
+[2017.11.19-20.06.42:224][416]LogBlueprint: Error: [Compiler ThirdPersonGameMode] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2017.11.19-20.06.42:224][416]LogBlueprint: Error: [Compiler ThirdPersonGameMode] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2017.11.19-20.06.42:335][416]LogBlueprint: Warning: [Compiler ThirdPersonGameMode] [0069.24] Compile of ThirdPersonGameMode failed. 3 Fatal Issue(s) 0 Warning(s) [in 144 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode)
+[2017.11.19-20.09.04:990][617]LogSavePackage: Save=60.59ms
+[2017.11.19-20.09.04:991][617]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonGameMode1D539C584E46716663C8A6A02B92CEDB.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2017.11.19-20.09.05:000][617]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2017.11.19-20.09.07:845][736]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2017.11.19-20.09.07:863][736]LogBlueprint: Error: [Compiler ThirdPersonGameMode] This blueprint (self) is not a SpawnPoint_C, therefore ' Target ' must have a connection.
+[2017.11.19-20.09.07:966][736]LogBlueprint: Warning: [Compiler ThirdPersonGameMode] [0214.87] Compile of ThirdPersonGameMode failed. 1 Fatal Issue(s) 0 Warning(s) [in 121 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode)
+[2017.11.19-20.09.17:975][504]Cmd: DELETE
+[2017.11.19-20.09.17:985][504]Cmd: ACTOR DELETE
+[2017.11.19-20.09.18:165][504]LogEditorActor: Deleted Actor: SpawnPoint_C
+[2017.11.19-20.09.18:180][504]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2017.11.19-20.10.19:237][635]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2017.11.19-20.10.20:774][672]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.19-20.10.20:796][672]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.10.20:796][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-20.10.20:920][672]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 19, 2017, 10:10:20 AM)
+[2017.11.19-20.10.20:931][672]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.19-20.10.20:979][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048191s)
+[2017.11.19-20.10.20:980][672]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-20.10.20:992][672]LogPlayLevel: PIE: World Init took: (0.013496s)
+[2017.11.19-20.10.21:000][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.069512s)
+[2017.11.19-20.10.21:043][672]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-20.10.21:051][672]LogInit: FAudioDevice initialized.
+[2017.11.19-20.10.21:119][672]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.19-20.10.21:197][672]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.19-15.10.21
+[2017.11.19-20.10.21:311][672]LogWorld: Bringing up level for play took: 0.124085
+[2017.11.19-20.10.21:392][672]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2017.11.19-20.10.21:457][672]LogOutputDevice: Warning: 
+
+Script Stack:
+SpawnPoint_C.SpawnZombies
+SpawnPoint_C.ExecuteUbergraph_SpawnPoint
+SpawnPoint_C.Spawn Zombies Event
+ThirdPersonGameMode_C.NewWave
+ThirdPersonGameMode_C.ExecuteUbergraph_ThirdPersonGameMode
+ThirdPersonGameMode_C.ReceiveBeginPlay
+
+[2017.11.19-20.10.22:140][672]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.683 s
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: === Handled ensure: ===
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: 
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\Components\SceneComponent.cpp] [Line: 1738]
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: Template Mismatch during attachment. Attaching instanced component to template component. Parent 'CollisionCylinder' Self 'CollisionCylinder'
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: Stack: 
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000B471EA6 UE4Editor-Core.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000B21121A UE4Editor-Core.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000B22B826 UE4Editor-Core.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DACADD38 UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DACD3CE2 UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DAC75EDE UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DABC04B3 UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DABE1BF9 UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DA7C0FF1 UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DA7D02F0 UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DA7CDABC UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DB0768F7 UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DB076CD7 UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DAC4E857 UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DABC04B3 UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DABE1BF9 UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DABE0EE5 UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DA7847B7 UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DA701934 UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000BA65224 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000BC296E4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000BC68674 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000BC416E2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000BC2A0EE UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000BC416E2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000BC2A0EE UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000BC416E2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000BC2A0EE UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000BC3F5B1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000BC416E2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000BC2A0EE UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000BC416E2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000BC2A0EE UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000BC416E2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000BA65224 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000000BC40AD6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DA7CE64B UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DA78F79B UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DA79CAEB UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DB995000 UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DAEEDC61 UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DB97FF1E UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000DAF1060E UE4Editor-Engine.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000F6DCABF5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000F6DF4F2E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000F6E112EF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000F6865C0F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000F7114316 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000A4195A26 UE4Editor.exe!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000A41A5430 UE4Editor.exe!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000A41A54AA UE4Editor.exe!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000A41B2379 UE4Editor.exe!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x00000000A41B3D57 UE4Editor.exe!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000002C601FE4 KERNEL32.DLL!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: [Callstack] 0x000000002D19EF91 ntdll.dll!UnknownFunction []
+[2017.11.19-20.10.22:150][672]LogOutputDevice: Error: 
+[2017.11.19-20.10.22:158][672]LogStats:                SubmitErrorReport -  0.000 s
+[2017.11.19-20.10.25:368][672]LogStats:                    SendNewReport -  3.210 s
+[2017.11.19-20.10.25:368][672]LogStats:             FDebug::EnsureFailed -  3.911 s
+[2017.11.19-20.10.25:731][672]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 4.605
+[2017.11.19-20.10.25:739][672]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.10.25:984][672]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.11.19-20.10.26:089][673]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.100000 > MaxSimulationTimeStep (0.050) for 'Zombie6_9552', movement 'Walking'
+[2017.11.19-20.10.44:735][172]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.10.44:838][172]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.10.51:508][668]LogSavePackage: Save=28.63ms
+[2017.11.19-20.10.51:508][668]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonGameModeBE35FE1C4921FFAFFF715A9D67FC4B2A.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2017.11.19-20.10.51:510][668]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2017.11.19-20.11.48:549][619]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.19-20.11.48:570][619]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.11.48:570][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-20.11.48:571][619]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 19, 2017, 10:11:48 AM)
+[2017.11.19-20.11.48:571][619]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.19-20.11.48:596][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025727s)
+[2017.11.19-20.11.48:597][619]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-20.11.48:597][619]LogPlayLevel: PIE: World Init took: (0.000576s)
+[2017.11.19-20.11.48:597][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026537s)
+[2017.11.19-20.11.48:617][619]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-20.11.48:626][619]LogInit: FAudioDevice initialized.
+[2017.11.19-20.11.48:670][619]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.19-20.11.48:675][619]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.19-15.11.48
+[2017.11.19-20.11.48:679][619]LogWorld: Bringing up level for play took: 0.008819
+[2017.11.19-20.11.48:755][619]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.371
+[2017.11.19-20.11.48:769][619]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.13.06:782][780]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.13.06:844][780]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.17.33:148][ 79]LogSavePackage: Save=365.88ms
+[2017.11.19-20.17.33:148][ 79]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonExampleMap_Auto116FC3C3B40266BDA2DFE21AD780CE438.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2017.11.19-20.17.33:151][ 79]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2017.11.19-20.17.33:159][ 79]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.474
+[2017.11.19-20.17.33:159][ 79]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.474
+[2017.11.19-20.17.33:173][ 79]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SpawnPoint] ([1] browsable assets)...
+[2017.11.19-20.17.33:173][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SpawnPoint]
+[2017.11.19-20.17.33:247][ 79]LogSavePackage: Save=62.83ms
+[2017.11.19-20.17.33:247][ 79]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/SpawnPoint_Auto13D6C04284F512ED3F2CEA8BCECAC1E07.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SpawnPoint_Auto1.uasset'
+[2017.11.19-20.17.33:249][ 79]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SpawnPoint_Auto1.uasset
+[2017.11.19-20.17.33:249][ 79]LogFileHelpers: Auto-saving content packages took 0.077
+[2017.11.19-20.17.46:149][ 80]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.19-20.17.46:170][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.17.46:171][ 80]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.19-20.17.46:198][ 80]LogPlayLevel: [PlayLevel] Compiling SpawnPoint before play...
+[2017.11.19-20.17.46:369][ 80]LogPlayLevel: PlayLevel: Blueprint regeneration took 198 ms (1 blueprints)
+[2017.11.19-20.17.46:369][ 80]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 19, 2017, 10:17:46 AM)
+[2017.11.19-20.17.46:369][ 80]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.19-20.17.46:384][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015452s)
+[2017.11.19-20.17.46:385][ 80]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-20.17.46:385][ 80]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2017.11.19-20.17.46:385][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016558s)
+[2017.11.19-20.17.46:405][ 80]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-20.17.46:414][ 80]LogInit: FAudioDevice initialized.
+[2017.11.19-20.17.46:461][ 80]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.19-20.17.46:467][ 80]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.19-15.17.46
+[2017.11.19-20.17.46:471][ 80]LogWorld: Bringing up level for play took: 0.008940
+[2017.11.19-20.17.46:480][ 80]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.646
+[2017.11.19-20.17.46:480][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.17.46:577][ 81]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.081542 > MaxSimulationTimeStep (0.050) for 'Zombie6_9552', movement 'Walking'
+[2017.11.19-20.19.15:570][642]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.19.15:633][642]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.23.15:928][207]BlueprintLog: New page: Compile SpawnPoint
+[2017.11.19-20.23.17:639][315]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.19-20.23.17:661][315]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.23.17:661][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-20.23.17:661][315]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 19, 2017, 10:23:17 AM)
+[2017.11.19-20.23.17:661][315]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.19-20.23.17:677][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016149s)
+[2017.11.19-20.23.17:678][315]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-20.23.17:678][315]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2017.11.19-20.23.17:678][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017337s)
+[2017.11.19-20.23.17:698][315]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-20.23.17:705][315]LogInit: FAudioDevice initialized.
+[2017.11.19-20.23.17:752][315]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.19-20.23.17:758][315]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.19-15.23.17
+[2017.11.19-20.23.17:762][315]LogWorld: Bringing up level for play took: 0.009272
+[2017.11.19-20.23.17:793][315]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-11.158 Y=-35.207 Z=94.960] for [Zombie_C]
+[2017.11.19-20.23.17:797][315]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.671
+[2017.11.19-20.23.17:798][315]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.23.23:471][657]LogBlueprintUserMessages: [SmarterAI_3482] HeadShot
+[2017.11.19-20.23.34:355][197]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.23.34:410][197]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.25.55:052][  7]LogSavePackage: Save=45.81ms
+[2017.11.19-20.25.55:052][  7]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/SpawnPoint63547ADC4C4F24532CD450B85FBDEC3B.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/SpawnPoint.uasset'
+[2017.11.19-20.25.55:058][  7]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/SpawnPoint.uasset
+[2017.11.19-20.26.02:915][682]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.19-20.30.25:490][252]BlueprintLog: New page: Compile SpawnPoint
+[2017.11.19-20.31.47:843][471]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.018
+[2017.11.19-20.31.47:844][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SpawnPoint] ([1] browsable assets)...
+[2017.11.19-20.31.47:844][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SpawnPoint]
+[2017.11.19-20.31.47:901][471]LogSavePackage: Save=46.01ms
+[2017.11.19-20.31.47:901][471]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/SpawnPoint_Auto2969EFE3B4A894532ADBA5AA17D55781C.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SpawnPoint_Auto2.uasset'
+[2017.11.19-20.31.47:902][471]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SpawnPoint_Auto2.uasset
+[2017.11.19-20.31.47:902][471]LogFileHelpers: Auto-saving content packages took 0.059
+[2017.11.19-20.32.44:288][205]LogSavePackage: Save=44.44ms
+[2017.11.19-20.32.44:288][205]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/SpawnPointDD7EBC57463318587EB0BF96D0357648.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/SpawnPoint.uasset'
+[2017.11.19-20.32.44:290][205]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/SpawnPoint.uasset
+[2017.11.19-20.33.21:407][604]BlueprintLog: New page: Compile SpawnPoint
+[2017.11.19-20.33.22:707][678]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.19-20.33.22:728][678]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.33.22:729][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-20.33.22:729][678]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 19, 2017, 10:33:22 AM)
+[2017.11.19-20.33.22:729][678]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.19-20.33.22:746][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017253s)
+[2017.11.19-20.33.22:747][678]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-20.33.22:747][678]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2017.11.19-20.33.22:747][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018156s)
+[2017.11.19-20.33.22:772][678]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-20.33.22:780][678]LogInit: FAudioDevice initialized.
+[2017.11.19-20.33.22:824][678]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.19-20.33.22:829][678]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.19-15.33.22
+[2017.11.19-20.33.22:834][678]LogWorld: Bringing up level for play took: 0.009365
+[2017.11.19-20.33.22:837][678]LogScript: Warning: Attempted to access index 0 from array SpawnPoints of length 0!
+	SpawnPoint_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SpawnPoint_C_0
+	Function /Game/ThirdPersonBP/Blueprints/SpawnPoint.SpawnPoint_C:SpawnZombies:0095
+[2017.11.19-20.33.22:837][678]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array SpawnPoints of length 0! from function: 'SpawnZombies' from node: Spawn AIFrom Class in graph: SpawnZombies in object: SpawnPoint with description: Attempted to access index 0 from array SpawnPoints of length 0!
+[2017.11.19-20.33.22:839][678]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-35.207 Z=94.960] for [Zombie_C]
+[2017.11.19-20.33.22:844][678]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.282
+[2017.11.19-20.33.22:845][678]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.33.38:884][671]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.33.38:941][671]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.34.12:420][263]BlueprintLog: New page: Compile SpawnPoint
+[2017.11.19-20.34.13:388][317]LogSavePackage: Save=42.46ms
+[2017.11.19-20.34.13:388][317]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/SpawnPoint9B5C8249483B5D56CF555E8853FEA10F.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/SpawnPoint.uasset'
+[2017.11.19-20.34.13:390][317]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/SpawnPoint.uasset
+[2017.11.19-20.34.14:704][419]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.19-20.34.14:726][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.34.14:726][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-20.34.14:726][419]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 19, 2017, 10:34:14 AM)
+[2017.11.19-20.34.14:726][419]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.19-20.34.14:743][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016741s)
+[2017.11.19-20.34.14:744][419]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-20.34.14:744][419]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2017.11.19-20.34.14:744][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017653s)
+[2017.11.19-20.34.14:789][419]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-20.34.14:797][419]LogInit: FAudioDevice initialized.
+[2017.11.19-20.34.14:841][419]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.19-20.34.14:846][419]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.19-15.34.14
+[2017.11.19-20.34.14:850][419]LogWorld: Bringing up level for play took: 0.008867
+[2017.11.19-20.34.14:855][419]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=50.101 Y=-35.207 Z=94.960] for [Zombie_C]
+[2017.11.19-20.34.14:860][419]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.266
+[2017.11.19-20.34.14:860][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.34.37:005][793]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.34.37:057][793]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.35.08:479][375]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2017.11.19-20.35.09:405][412]LogSavePackage: Save=23.19ms
+[2017.11.19-20.35.09:405][412]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonGameMode2C37B0FB423D0506B37330906AE2CC90.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2017.11.19-20.35.09:407][412]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2017.11.19-20.35.10:833][537]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.19-20.35.10:855][537]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.35.10:855][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-20.35.10:855][537]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 19, 2017, 10:35:10 AM)
+[2017.11.19-20.35.10:855][537]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.19-20.35.10:871][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016113s)
+[2017.11.19-20.35.10:872][537]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-20.35.10:872][537]LogPlayLevel: PIE: World Init took: (0.000869s)
+[2017.11.19-20.35.10:873][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017383s)
+[2017.11.19-20.35.10:893][537]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-20.35.10:901][537]LogInit: FAudioDevice initialized.
+[2017.11.19-20.35.10:946][537]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.19-20.35.10:952][537]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.19-15.35.10
+[2017.11.19-20.35.10:956][537]LogWorld: Bringing up level for play took: 0.008991
+[2017.11.19-20.35.10:960][537]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=49.642 Y=-35.207 Z=0.000] for [Zombie_C]
+[2017.11.19-20.35.10:965][537]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.161
+[2017.11.19-20.35.10:965][537]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.35.28:820][667]LogBlueprintUserMessages: [SmarterAI_3482] HeadShot
+[2017.11.19-20.35.28:921][673]LogBlueprintUserMessages: [SmarterAI_3482] HeadShot
+[2017.11.19-20.35.29:670][718]LogBlueprintUserMessages: [SmarterAI_3482] HeadShot
+[2017.11.19-20.35.46:075][912]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.35.46:127][912]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.36.35:456][360]LogSavePackage: Save=23.57ms
+[2017.11.19-20.36.35:456][360]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonGameMode5F31B1F14C0F36CF40ABE3AD240724DA.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2017.11.19-20.36.35:460][360]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2017.11.19-20.36.37:117][505]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.19-20.36.37:141][505]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.36.37:141][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-20.36.37:141][505]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 19, 2017, 10:36:37 AM)
+[2017.11.19-20.36.37:141][505]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.19-20.36.37:158][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017017s)
+[2017.11.19-20.36.37:159][505]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-20.36.37:159][505]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2017.11.19-20.36.37:159][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017923s)
+[2017.11.19-20.36.37:182][505]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-20.36.37:191][505]LogInit: FAudioDevice initialized.
+[2017.11.19-20.36.37:242][505]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.19-20.36.37:248][505]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.19-15.36.37
+[2017.11.19-20.36.37:252][505]LogWorld: Bringing up level for play took: 0.009663
+[2017.11.19-20.36.37:256][505]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=49.642 Y=-35.207 Z=0.000] for [Zombie_C]
+[2017.11.19-20.36.37:261][505]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.135
+[2017.11.19-20.36.37:261][505]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.37.01:463][125]LogBlueprintUserMessages: [SimpleAI_2] HeadShot
+[2017.11.19-20.37.03:051][233]LogBlueprintUserMessages: [SimpleAI_2] HeadShot
+[2017.11.19-20.37.06:787][499]LogBlueprintUserMessages: [SimpleAI_2] HeadShot
+[2017.11.19-20.37.07:740][580]LogBlueprintUserMessages: [SimpleAI_2] HeadShot
+[2017.11.19-20.37.08:714][652]LogBlueprintUserMessages: [SimpleAI_2] HeadShot
+[2017.11.19-20.37.10:703][810]LogBlueprintUserMessages: [SimpleAI_2] HeadShot
+[2017.11.19-20.37.11:289][857]LogBlueprintUserMessages: [SimpleAI_2] HeadShot
+[2017.11.19-20.37.20:368][580]LogBlueprintUserMessages: [SimpleAI_2] HeadShot
+[2017.11.19-20.37.20:470][588]LogBlueprintUserMessages: [SimpleAI_2] HeadShot
+[2017.11.19-20.37.21:447][665]LogBlueprintUserMessages: [SmarterAI_3482] HeadShot
+[2017.11.19-20.37.21:647][680]LogBlueprintUserMessages: [SimpleAI_2] HeadShot
+[2017.11.19-20.37.36:292][854]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.37.36:340][854]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-20.37.38:950][123]LogSavePackage: Save=23.33ms
+[2017.11.19-20.37.38:951][123]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonGameModeA3B0163E43FA1F119CC62295C6550E3D.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2017.11.19-20.37.38:952][123]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2017.11.19-20.44.04:757][774]LogSavePackage: Save=360.11ms
+[2017.11.19-20.44.04:757][774]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonExampleMap_Auto34572AF564CED5DDABFD56A81DBD78EFF.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2017.11.19-20.44.04:760][774]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap
+[2017.11.19-20.44.04:766][774]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.466
+[2017.11.19-20.44.04:766][774]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.466
+[2017.11.20-01.46.29:821][860]BlueprintLog: New page: Compile Zombie
+[2017.11.20-01.46.33:591][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Zombie" FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset" SILENT=true
+[2017.11.20-01.46.33:829][ 35]LogSavePackage: Save=210.00ms
+[2017.11.20-01.46.33:829][ 35]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ZombieFF40DC3D427A54FD036AF399BF2DFF96.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.46.33:829][ 35]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset', retrying in .5s...
+[2017.11.20-01.46.34:330][ 35]LogFileManager: Error: Error deleting file 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'.
+[2017.11.20-01.46.34:330][ 35]LogSavePackage: Error: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.46.34:331][ 35]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset
+[2017.11.20-01.46.34:331][ 35]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.20-01.46.43:224][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Zombie" FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset" SILENT=true
+[2017.11.20-01.46.43:391][ 35]LogSavePackage: Save=160.27ms
+[2017.11.20-01.46.43:391][ 35]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Zombie60E2B1D649277CF5F8591C8CE4E59631.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.46.43:392][ 35]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset', retrying in .5s...
+[2017.11.20-01.46.43:892][ 35]LogFileManager: Error: Error deleting file 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'.
+[2017.11.20-01.46.43:892][ 35]LogSavePackage: Error: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.46.43:893][ 35]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset
+[2017.11.20-01.46.44:890][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Zombie" FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset" SILENT=true
+[2017.11.20-01.46.45:033][ 35]LogSavePackage: Save=136.03ms
+[2017.11.20-01.46.45:033][ 35]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Zombie0AEC1DC649F1CADC1ADA7190EA21A019.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.46.45:033][ 35]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset', retrying in .5s...
+[2017.11.20-01.46.45:534][ 35]LogFileManager: Error: Error deleting file 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'.
+[2017.11.20-01.46.45:534][ 35]LogSavePackage: Error: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.46.45:534][ 35]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset
+[2017.11.20-01.46.46:979][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Zombie" FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset" SILENT=true
+[2017.11.20-01.46.47:139][ 35]LogSavePackage: Save=153.41ms
+[2017.11.20-01.46.47:139][ 35]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ZombieA33BE5094C8C9A63D72DE8B5B25940EF.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.46.47:140][ 35]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset', retrying in .5s...
+[2017.11.20-01.46.47:640][ 35]LogFileManager: Error: Error deleting file 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'.
+[2017.11.20-01.46.47:640][ 35]LogSavePackage: Error: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.46.47:641][ 35]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset
+[2017.11.20-01.46.58:320][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Zombie" FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset" SILENT=true
+[2017.11.20-01.46.58:464][ 35]LogSavePackage: Save=135.34ms
+[2017.11.20-01.46.58:464][ 35]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ZombieE747BE204E0DBEB2099650BAA0761F43.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.46.58:464][ 35]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset', retrying in .5s...
+[2017.11.20-01.46.58:965][ 35]LogFileManager: Error: Error deleting file 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'.
+[2017.11.20-01.46.58:965][ 35]LogSavePackage: Error: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.46.58:965][ 35]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset
+[2017.11.20-01.46.59:519][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Zombie" FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset" SILENT=true
+[2017.11.20-01.46.59:666][ 35]LogSavePackage: Save=139.11ms
+[2017.11.20-01.46.59:666][ 35]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Zombie2B8C7D68413595413AEFC2A93C064942.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.46.59:666][ 35]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset', retrying in .5s...
+[2017.11.20-01.47.00:166][ 35]LogFileManager: Error: Error deleting file 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'.
+[2017.11.20-01.47.00:166][ 35]LogSavePackage: Error: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.00:167][ 35]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset
+[2017.11.20-01.47.00:403][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Zombie" FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset" SILENT=true
+[2017.11.20-01.47.00:548][ 35]LogSavePackage: Save=138.67ms
+[2017.11.20-01.47.00:548][ 35]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Zombie00FC78D549DE490AEB71588C1BFF85AE.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.00:548][ 35]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset', retrying in .5s...
+[2017.11.20-01.47.01:049][ 35]LogFileManager: Error: Error deleting file 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'.
+[2017.11.20-01.47.01:049][ 35]LogSavePackage: Error: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.01:051][ 35]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset
+[2017.11.20-01.47.01:418][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Zombie" FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset" SILENT=true
+[2017.11.20-01.47.01:564][ 35]LogSavePackage: Save=138.24ms
+[2017.11.20-01.47.01:564][ 35]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Zombie0FB0E81947A5CBCD2048B7B9FA2A8123.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.01:564][ 35]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset', retrying in .5s...
+[2017.11.20-01.47.02:064][ 35]LogFileManager: Error: Error deleting file 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'.
+[2017.11.20-01.47.02:064][ 35]LogSavePackage: Error: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.02:066][ 35]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset
+[2017.11.20-01.47.10:104][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Zombie" FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset" SILENT=true
+[2017.11.20-01.47.10:245][ 35]LogSavePackage: Save=134.36ms
+[2017.11.20-01.47.10:245][ 35]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ZombieD12A00F747F1CF4C22DB9889A5BED216.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.10:246][ 35]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset', retrying in .5s...
+[2017.11.20-01.47.10:746][ 35]LogFileManager: Error: Error deleting file 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'.
+[2017.11.20-01.47.10:746][ 35]LogSavePackage: Error: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.10:747][ 35]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset
+[2017.11.20-01.47.12:676][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Zombie" FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset" SILENT=true
+[2017.11.20-01.47.12:818][ 35]LogSavePackage: Save=135.71ms
+[2017.11.20-01.47.12:818][ 35]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ZombieC6BEBB2548A775A671E87597D299F95A.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.12:818][ 35]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset', retrying in .5s...
+[2017.11.20-01.47.13:319][ 35]LogFileManager: Error: Error deleting file 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'.
+[2017.11.20-01.47.13:319][ 35]LogSavePackage: Error: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.13:320][ 35]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset
+[2017.11.20-01.47.14:668][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Zombie" FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset" SILENT=true
+[2017.11.20-01.47.14:812][ 35]LogSavePackage: Save=136.51ms
+[2017.11.20-01.47.14:812][ 35]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Zombie9C3401B34C4FA3202F367FABFDDD8985.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.14:813][ 35]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset', retrying in .5s...
+[2017.11.20-01.47.15:313][ 35]LogFileManager: Error: Error deleting file 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'.
+[2017.11.20-01.47.15:313][ 35]LogSavePackage: Error: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.15:314][ 35]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset
+[2017.11.20-01.47.16:942][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Zombie" FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset" SILENT=true
+[2017.11.20-01.47.17:085][ 35]LogSavePackage: Save=136.18ms
+[2017.11.20-01.47.17:085][ 35]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Zombie096AF68F40F34738418529817DB41907.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.17:085][ 35]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset', retrying in .5s...
+[2017.11.20-01.47.17:586][ 35]LogFileManager: Error: Error deleting file 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'.
+[2017.11.20-01.47.17:586][ 35]LogSavePackage: Error: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.17:586][ 35]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset
+[2017.11.20-01.47.19:103][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Zombie" FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset" SILENT=true
+[2017.11.20-01.47.19:247][ 35]LogSavePackage: Save=136.63ms
+[2017.11.20-01.47.19:247][ 35]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Zombie5AD25B6B499828D40132F2AF43C0B5CC.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.19:247][ 35]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset', retrying in .5s...
+[2017.11.20-01.47.19:747][ 35]LogFileManager: Error: Error deleting file 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'.
+[2017.11.20-01.47.19:747][ 35]LogSavePackage: Error: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.19:748][ 35]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset
+[2017.11.20-01.47.22:454][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Zombie" FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset" SILENT=true
+[2017.11.20-01.47.22:599][ 35]LogSavePackage: Save=137.05ms
+[2017.11.20-01.47.22:599][ 35]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ZombieB1154FA4458BA51B27CD3C908738E439.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.22:600][ 35]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset', retrying in .5s...
+[2017.11.20-01.47.23:100][ 35]LogFileManager: Error: Error deleting file 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'.
+[2017.11.20-01.47.23:100][ 35]LogSavePackage: Error: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.23:100][ 35]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset
+[2017.11.20-01.47.24:784][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Zombie" FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset" SILENT=true
+[2017.11.20-01.47.24:927][ 35]LogSavePackage: Save=135.87ms
+[2017.11.20-01.47.24:927][ 35]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Zombie1C4DCACC4735AD41C9C96583D13F9978.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.24:927][ 35]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset', retrying in .5s...
+[2017.11.20-01.47.25:428][ 35]LogFileManager: Error: Error deleting file 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'.
+[2017.11.20-01.47.25:428][ 35]LogSavePackage: Error: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.25:429][ 35]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset
+[2017.11.20-01.47.28:924][ 35]EditorErrors: New page: Save Output
+[2017.11.20-01.47.28:924][ 35]EditorErrors: Warning: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.28:924][ 35]EditorErrors: Warning: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.28:924][ 35]EditorErrors: Warning: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.28:924][ 35]EditorErrors: Warning: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.28:924][ 35]EditorErrors: Warning: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.28:924][ 35]EditorErrors: Warning: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.28:924][ 35]EditorErrors: Warning: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.28:924][ 35]EditorErrors: Warning: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.28:924][ 35]EditorErrors: Warning: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.28:924][ 35]EditorErrors: Warning: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.28:924][ 35]EditorErrors: Warning: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.28:924][ 35]EditorErrors: Warning: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.28:924][ 35]EditorErrors: Warning: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.28:924][ 35]EditorErrors: Warning: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.28:924][ 35]EditorErrors: Warning: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.39:415][445]LogSavePackage: Save=306.38ms
+[2017.11.20-01.47.39:416][445]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonExampleMap_Auto473102E7A44FA773446DBC18859743014.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2017.11.20-01.47.39:417][445]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2017.11.20-01.47.39:419][445]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.365
+[2017.11.20-01.47.39:419][445]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.365
+[2017.11.20-01.47.39:421][445]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Zombie] ([1] browsable assets)...
+[2017.11.20-01.47.39:421][445]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Zombie]
+[2017.11.20-01.47.39:569][445]LogSavePackage: Save=143.37ms
+[2017.11.20-01.47.39:569][445]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Zombie_Auto48CF46AFA4BED72D6CCC4028679B9E59B.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Zombie_Auto4.uasset'
+[2017.11.20-01.47.39:572][445]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Zombie_Auto4.uasset
+[2017.11.20-01.47.39:572][445]LogFileHelpers: Auto-saving content packages took 0.152
+[2017.11.20-01.47.47:741][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Zombie" FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset" SILENT=true
+[2017.11.20-01.47.47:886][976]LogSavePackage: Save=137.67ms
+[2017.11.20-01.47.47:886][976]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Zombie8416AD344E7C11A7683740ABE0CE700A.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.47:887][976]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset', retrying in .5s...
+[2017.11.20-01.47.48:387][976]LogFileManager: Error: Error deleting file 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'.
+[2017.11.20-01.47.48:387][976]LogSavePackage: Error: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.47.48:388][976]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset
+[2017.11.20-01.47.50:057][976]EditorErrors: New page: Save Output
+[2017.11.20-01.47.50:057][976]EditorErrors: Warning: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.48.29:142][571]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.20-01.48.30:113][678]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.20-01.48.33:177][940]LogSavePackage: Save=285.56ms
+[2017.11.20-01.48.33:177][940]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonExampleMap740386C8473AF9F9516946830F1D361F.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.20-01.48.33:177][940]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap', retrying in .5s...
+[2017.11.20-01.48.33:678][940]LogFileManager: Error: Error deleting file 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'.
+[2017.11.20-01.48.33:678][940]LogSavePackage: Error: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.20-01.48.33:679][940]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.20-01.48.33:683][940]EditorErrors: New page: Save Output
+[2017.11.20-01.48.33:683][940]EditorErrors: Warning: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.20-01.48.43:110][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Zombie" FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset" SILENT=true
+[2017.11.20-01.48.43:250][273]LogSavePackage: Save=135.08ms
+[2017.11.20-01.48.43:250][273]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ZombieAA3F21774D57AED068219FB422EF8DA2.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.48.43:251][273]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset', retrying in .5s...
+[2017.11.20-01.48.43:751][273]LogFileManager: Error: Error deleting file 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'.
+[2017.11.20-01.48.43:751][273]LogSavePackage: Error: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.48.43:751][273]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset
+[2017.11.20-01.48.46:396][273]LogSavePackage: Save=279.53ms
+[2017.11.20-01.48.46:396][273]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonExampleMap3EE625D142FEE289873014B320D69380.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.20-01.48.46:396][273]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap', retrying in .5s...
+[2017.11.20-01.48.46:897][273]LogFileManager: Error: Error deleting file 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'.
+[2017.11.20-01.48.46:897][273]LogSavePackage: Error: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.20-01.48.46:898][273]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.20-01.48.46:900][273]EditorErrors: New page: Save Output
+[2017.11.20-01.48.46:900][273]EditorErrors: Warning: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.20-01.48.46:909][273]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.111
+[2017.11.20-01.48.47:686][273]EditorErrors: New page: Save Output
+[2017.11.20-01.48.47:686][273]EditorErrors: Warning: Error saving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/Zombie.uasset'
+[2017.11.20-01.48.48:896][273]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.20-01.48.49:208][274]Cmd: QUIT_EDITOR
+[2017.11.20-01.48.49:892][274]LogExit: Preparing to exit.
+[2017.11.20-01.48.50:931][274]LogExit: Editor shut down
+[2017.11.20-01.48.50:951][274]LogExit: Transaction tracking system shut down
+[2017.11.20-01.48.51:292][274]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.20-01.48.51:292][274]LogDirectoryWatcher: A directory notification for 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/' was aborted.
+[2017.11.20-01.48.51:292][274]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.20-01.48.51:292][274]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.11.20-01.48.51:292][274]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.11.20-01.48.51:292][274]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.20-01.48.51:292][274]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.20-01.48.52:599][274]LogExit: Object subsystem successfully closed.
+[2017.11.20-01.48.52:740][274]LogD3D11RHI: Shutdown
+[2017.11.20-01.48.52:749][274]LogD3D11RHI: CleanupD3DDevice
+[2017.11.20-01.48.52:772][274]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.20-01.48.54:316][274]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2017.11.20-01.48.54:316][274]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2017.11.20-01.48.54:316][274]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2017.11.20-01.48.54:316][274]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.11.20-01.48.54:327][274]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.11.20-01.48.54:350][274]LogDirectoryWatcher: A directory notification for 'X:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.11.20-01.48.54:354][274]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.11.20-01.48.54:354][274]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.11.20-01.48.54:354][274]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.11.20-01.48.54:373][274]LogDirectoryWatcher: A directory notification for 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/Collections/' was aborted.
+[2017.11.20-01.48.54:373][274]LogDirectoryWatcher: A directory notification for 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/Developers/gameruouqzwh/Collections/' was aborted.
+[2017.11.20-01.48.54:373][274]LogDirectoryWatcher: A directory notification for 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Collections/' was aborted.
+[2017.11.20-01.48.54:373][274]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.11.20-01.48.54:391][274]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.11.20-01.48.54:403][274]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.11.20-01.48.54:425][274]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.11.20-01.48.54:438][274]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.11.20-01.48.54:438][274]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.11.20-01.48.54:438][274]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.11.20-01.48.54:438][274]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.11.20-01.48.54:438][274]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.11.20-01.48.54:438][274]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.11.20-01.48.54:438][274]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.11.20-01.48.54:438][274]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.11.20-01.48.54:448][274]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.11.20-01.48.54:455][274]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.11.20-01.48.54:460][274]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.11.20-01.48.54:477][274]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.11.20-01.48.54:477][274]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.11.20-01.48.54:477][274]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.11.20-01.48.54:477][274]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.11.20-01.48.54:477][274]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.11.20-01.48.54:477][274]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.11.20-01.48.54:477][274]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.11.20-01.48.54:477][274]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.11.20-01.48.54:477][274]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.11.20-01.48.54:477][274]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.11.20-01.48.54:477][274]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.11.20-01.48.54:477][274]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.11.20-01.48.54:482][274]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.11.20-01.48.54:483][274]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.11.20-01.48.54:498][274]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.11.20-01.48.54:498][274]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.11.20-01.48.54:498][274]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.11.20-01.48.54:498][274]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.11.20-01.48.54:525][274]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.11.20-01.48.54:538][274]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.11.20-01.48.54:550][274]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.11.20-01.48.54:583][274]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.11.20-01.48.54:617][274]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.11.20-01.48.54:632][274]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.11.20-01.48.54:633][274]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.11.20-01.48.54:633][274]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.11.20-01.48.55:417][274]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.11.20-01.48.55:418][274]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.11.20-01.48.55:418][274]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.11.20-01.48.55:418][274]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.11.20-01.48.55:430][274]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.11.20-01.48.55:443][274]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.11.20-01.48.55:443][274]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.11.20-01.48.55:448][274]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.11.20-01.48.55:448][274]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.11.20-01.48.55:457][274]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.11.20-01.48.55:464][274]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.11.20-01.48.55:464][274]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.11.20-01.48.55:464][274]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.11.20-01.48.55:464][274]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.11.20-01.48.55:475][274]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.11.20-01.48.55:475][274]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.11.20-01.48.55:475][274]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.11.20-01.48.55:475][274]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.11.20-01.48.55:487][274]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.11.20-01.48.55:487][274]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.11.20-01.48.55:517][274]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.11.20-01.48.55:530][274]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.11.20-01.48.55:535][274]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.11.20-01.48.55:545][274]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.11.20-01.48.55:608][274]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.11.20-01.48.55:613][274]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.11.20-01.48.55:622][274]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.11.20-01.48.55:634][274]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.11.20-01.48.55:634][274]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.11.20-01.48.55:655][274]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.11.20-01.48.55:655][274]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.11.20-01.48.55:674][274]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.11.20-01.48.55:674][274]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.11.20-01.48.55:674][274]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.11.20-01.48.55:693][274]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.11.20-01.48.55:705][274]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.11.20-01.48.55:705][274]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.11.20-01.48.55:718][274]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.11.20-01.48.55:745][274]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.11.20-01.48.55:757][274]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.11.20-01.48.55:766][274]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.11.20-01.48.55:766][274]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.11.20-01.48.55:766][274]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.11.20-01.48.55:766][274]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.11.20-01.48.55:766][274]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.11.20-01.48.55:766][274]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.11.20-01.48.55:766][274]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.11.20-01.48.55:766][274]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.11.20-01.48.55:767][274]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.11.20-01.48.55:767][274]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.11.20-01.48.55:773][274]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.11.20-01.48.55:779][274]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.11.20-01.48.55:790][274]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.11.20-01.48.55:790][274]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.11.20-01.48.55:877][274]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.11.20-01.48.55:892][274]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.11.20-01.48.55:892][274]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.11.20-01.48.55:893][274]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.11.20-01.48.55:901][274]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.11.20-01.48.55:909][274]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.11.20-01.48.55:909][274]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.11.20-01.48.55:909][274]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.11.20-01.48.55:916][274]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.11.20-01.48.55:916][274]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.11.20-01.48.55:916][274]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.11.20-01.48.55:916][274]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.11.20-01.48.55:927][274]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.11.20-01.48.55:927][274]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.11.20-01.48.55:927][274]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.11.20-01.48.55:927][274]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.11.20-01.48.55:934][274]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.11.20-01.48.55:934][274]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.11.20-01.48.55:944][274]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.11.20-01.48.55:944][274]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.11.20-01.48.55:944][274]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.11.20-01.48.55:952][274]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.11.20-01.48.55:958][274]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.11.20-01.48.55:958][274]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.11.20-01.48.55:958][274]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.11.20-01.48.55:958][274]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.11.20-01.48.55:968][274]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.11.20-01.48.55:970][274]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.11.20-01.48.55:979][274]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.11.20-01.48.55:991][274]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.11.20-01.48.55:991][274]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.11.20-01.48.55:991][274]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.11.20-01.48.55:991][274]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.11.20-01.48.56:014][274]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.11.20-01.48.56:022][274]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.11.20-01.48.56:034][274]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.11.20-01.48.56:046][274]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.11.20-01.48.56:046][274]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.11.20-01.48.56:068][274]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.11.20-01.48.56:068][274]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.11.20-01.48.56:068][274]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.11.20-01.48.56:068][274]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.11.20-01.48.56:068][274]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.11.20-01.48.56:068][274]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.11.20-01.48.56:068][274]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.11.20-01.48.56:083][274]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.11.20-01.48.56:192][274]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.11.20-01.48.56:300][274]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.11.20-01.48.56:306][274]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.11.20-01.48.56:306][274]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.11.20-01.48.56:306][274]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.11.20-01.48.56:312][274]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.11.20-01.48.56:312][274]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.11.20-01.48.56:313][274]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.11.20-01.48.56:313][274]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.11.20-01.48.56:313][274]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.11.20-01.48.56:323][274]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.11.20-01.48.56:333][274]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.11.20-01.48.56:333][274]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.11.20-01.48.56:333][274]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.11.20-01.48.56:333][274]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.11.20-01.48.56:347][274]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.11.20-01.48.56:347][274]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.11.20-01.48.56:353][274]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.11.20-01.48.56:353][274]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.11.20-01.48.56:353][274]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.11.20-01.48.56:362][274]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.11.20-01.48.56:371][274]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.11.20-01.48.56:371][274]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.11.20-01.48.56:401][274]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.11.20-01.48.56:412][274]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.11.20-01.48.56:419][274]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.11.20-01.48.56:419][274]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.11.20-01.48.56:434][274]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.11.20-01.48.56:470][274]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.11.20-01.48.56:494][274]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.11.20-01.48.56:494][274]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.11.20-01.48.56:516][274]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.11.20-01.48.56:516][274]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.11.20-01.48.56:518][274]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.11.20-01.48.56:518][274]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.11.20-01.48.56:518][274]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.11.20-01.48.56:518][274]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.11.20-01.48.56:518][274]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.11.20-01.48.56:518][274]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.11.20-01.48.56:518][274]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.11.20-01.48.56:524][274]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.11.20-01.48.56:528][274]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.20-01.48.56:528][274]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.11.20-01.48.56:541][274]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.11.20-01.48.56:544][274]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.11.20-01.48.56:550][274]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.11.20-01.48.56:560][274]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.11.20-01.48.56:560][274]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.11.20-01.48.56:565][274]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.11.20-01.48.56:577][274]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.11.20-01.48.56:614][274]LogDerivedDataCache: Shutdown
+[2017.11.20-01.48.56:614][274]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.11.20-01.48.56:614][274]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.11.20-01.48.56:618][274]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.11.20-01.48.56:629][274]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.11.20-01.48.56:639][274]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.11.20-01.48.56:639][274]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.11.20-01.48.56:650][274]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.11.20-01.48.56:650][274]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.11.20-01.48.56:650][274]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.11.20-01.48.56:657][274]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.11.20-01.48.56:673][274]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.11.20-01.48.56:674][274]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.11.20-01.48.56:674][274]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.11.20-01.48.56:674][274]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.11.20-01.48.56:674][274]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.11.20-01.48.56:674][274]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.11.20-01.48.56:674][274]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.11.20-01.48.56:680][274]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.11.20-01.48.56:680][274]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.11.20-01.48.56:680][274]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.11.20-01.48.56:680][274]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.20-01.48.56:680][274]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.20-01.48.56:696][274]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.20-01.48.56:700][274]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.20-01.48.56:700][274]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.20-01.48.56:710][274]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6F2BB0E1-4B38-7763-6639-E0A9DA18BCAD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.0-3709383%2B%2B%2BUE4%2BRelease-4.18&UserID=1dbe29a74a110e813fe6fcbaf583657f%7C389c3ae4a1484d61bf4434d75b51f084%7Ce3a279f3-8b12-4bfa-83ea-e1deef642d31&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.20-01.48.56:741][274]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.20-01.48.56:752][274]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.20-01.48.56:764][274]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.20-01.48.56:764][274]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.20-01.48.56:781][274]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.20-01.48.56:793][274]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.20-01.48.56:793][274]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.20-01.48.56:793][274]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.20-01.48.56:813][274]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.20-01.48.56:824][274]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.20-01.48.56:824][274]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.20-01.48.56:836][274]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.20-01.48.56:836][274]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.20-01.48.56:848][274]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.20-01.48.56:848][274]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.20-01.48.56:860][274]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.20-01.48.56:860][274]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.20-01.48.56:865][274]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.20-01.48.56:872][274]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.20-01.48.56:903][274]LogExit: Exiting.
+[2017.11.20-01.48.56:921][274]Log file closed, 11/19/17 20:48:56
