@@ -1,0 +1,525 @@
+﻿Log file open, 01/15/18 12:27:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: fpstutorial
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-442412854) SRandInit(-442412854).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.145750
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: X:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.15-17.27.13:842][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.15-17.27.13:842][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.15-17.27.13:857][  0]LogInit: Computer: ACTUAL_PUSSY_DE
+[2018.01.15-17.27.13:857][  0]LogInit: User: gameruouqzwh
+[2018.01.15-17.27.13:857][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.15-17.27.13:857][  0]LogInit: High frequency timer resolution =3.914062 MHz
+[2018.01.15-17.27.13:857][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.15-17.27.13:857][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.15-17.27.13:857][  0]LogMemory: Process Physical Memory: 275.17 MB used, 275.17 MB peak
+[2018.01.15-17.27.13:857][  0]LogMemory: Process Virtual Memory: 269.94 MB used, 269.94 MB peak
+[2018.01.15-17.27.13:857][  0]LogMemory: Physical Memory: 5930.39 MB used,  2176.75 MB free, 8107.14 MB total
+[2018.01.15-17.27.13:857][  0]LogMemory: Virtual Memory: 682.71 MB used,  2176.75 MB free, 134217728.00 MB total
+[2018.01.15-17.27.13:954][  0]LogInit: Using OS detected language (en-US).
+[2018.01.15-17.27.13:954][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.15-17.27.13:957][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.15-17.27.14:246][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.15-17.27.14:469][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.15-17.27.14:504][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.01.15-17.27.14:504][  0]LogD3D11RHI:       6052/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.15-17.27.14:506][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.15-17.27.14:506][  0]LogD3D11RHI:       0/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.15-17.27.14:506][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.15-17.27.14:510][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.15-17.27.14:510][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.15-17.27.14:510][  0]LogWindows: EnumDisplayDevices:
+[2018.01.15-17.27.14:510][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.01.15-17.27.14:511][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.01.15-17.27.14:511][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.01.15-17.27.14:511][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.01.15-17.27.14:511][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.15-17.27.14:511][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.01.15-17.27.14:511][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.15-17.27.14:511][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.15-17.27.14:511][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.01.15-17.27.14:531][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.15-17.27.14:612][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.01.15-17.27.14:660][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Intermediate/Shaders/WorkingDirectory/8436/).
+[2018.01.15-17.27.14:660][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gamer_uouqzwh/AppData/Local/Temp/UnrealShaderWorkingDir/95625AA643F197BA9D8F3A8E08448F77/'.
+[2018.01.15-17.27.14:660][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.15-17.27.15:384][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.15-17.27.15:436][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.15-17.27.15:488][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.15-17.27.15:529][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.15-17.27.15:562][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.15-17.27.15:595][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.15-17.27.15:645][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.15-17.27.15:676][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.15-17.27.15:704][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.15-17.27.15:735][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.15-17.27.15:766][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.15-17.27.15:797][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.15-17.27.15:829][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.15-17.27.15:866][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.15-17.27.15:928][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.15-17.27.15:928][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.15-17.27.15:960][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.15-17.27.15:983][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.15-17.27.16:046][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.15-17.27.16:063][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.15-17.27.16:094][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.15-17.27.16:125][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.15-17.27.16:156][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.15-17.27.16:188][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.15-17.27.16:188][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.15-17.27.16:446][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.15-17.27.16:497][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/gamer_uouqzwh/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.15-17.27.16:497][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/gamer_uouqzwh/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.15-17.27.16:497][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.15-17.27.16:497][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.15-17.27.16:498][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.15-17.27.16:498][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.15-17.27.16:510][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.15-17.27.16:521][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gamer_uouqzwh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.15-17.27.16:528][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.15-17.27.16:528][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.15-17.27.16:528][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.15-17.27.16:529][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.15-17.27.16:799][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.15-17.27.17:009][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.15-17.27.17:032][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.15-17.27.17:032][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.15-17.27.17:032][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.15-17.27.17:032][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.15-17.27.17:032][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.15-17.27.17:056][  0]LogNetVersion: fpstutorial , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 724704587)
+[2018.01.15-17.27.17:169][  0]LogAssetRegistry: FAssetRegistry took 0.0238 seconds to start up
+[2018.01.15-17.27.17:577][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.061263 seconds
+[2018.01.15-17.27.17:581][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.15-17.27.17:581][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.01.15-17.27.17:581][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.15-17.27.17:609][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.15-17.27.19:531][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.15-17.27.19:562][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.15-17.27.20:009][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.15-17.27.20:291][  0]SourceControl: Source control is disabled
+[2018.01.15-17.27.20:291][  0]SourceControl: Source control is disabled
+[2018.01.15-17.27.20:326][  0]SourceControl: Source control is disabled
+[2018.01.15-17.27.20:362][  0]SourceControl: Source control is disabled
+[2018.01.15-17.27.21:453][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.15-17.27.21:722][  0]LogOcInput: OculusInput pre-init called
+[2018.01.15-17.27.21:946][  0]LogEngine: Initializing Engine...
+[2018.01.15-17.27.21:947][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.15-17.27.22:092][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.15-17.27.22:092][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.15-17.27.22:167][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.15-17.27.22:175][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.15-17.27.22:186][  0]LogInit: FAudioDevice initialized.
+[2018.01.15-17.27.22:223][  0]LogDerivedDataCache: Saved boot cache 0.04s 78MB C:/Users/gamer_uouqzwh/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.15-17.27.22:232][  0]LogInit: Texture streaming: Enabled
+[2018.01.15-17.27.22:290][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.15-17.27.22:307][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={DA087583-4DEE-207D-C16A-81A46AB52C5E}
+[2018.01.15-17.27.22:388][  0]LogInit: Transaction tracking system initialized
+[2018.01.15-17.27.22:569][  0]BlueprintLog: New page: Editor Load
+[2018.01.15-17.27.23:081][  0]LocalizationService: Localization service is disabled
+[2018.01.15-17.27.23:388][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2018.01.15-17.27.23:388][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2018.01.15-17.27.23:388][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2018.01.15-17.27.23:517][  0]LogConsoleResponse: Display: 
+[2018.01.15-17.27.23:647][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.15-17.27.23:647][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.15-17.27.23:647][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.15-17.27.23:813][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/' took 0.04s
+[2018.01.15-17.27.24:391][  0]SourceControl: Source control is disabled
+[2018.01.15-17.27.24:391][  0]Cmd: MAP LOAD FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.15-17.27.24:392][  0]LightingResults: New page: Lighting Build
+[2018.01.15-17.27.24:415][  0]MapCheck: New page: Map Check
+[2018.01.15-17.27.24:415][  0]LightingResults: New page: Lighting Build
+[2018.01.15-17.27.25:897][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.15-17.27.25:955][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.15-17.27.25:968][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.15-17.27.26:021][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.242ms to complete.
+[2018.01.15-17.27.26:021][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.629
+[2018.01.15-17.27.26:207][  0]LogCollectionManager: Loaded 0 collections in 0.000711 seconds
+[2018.01.15-17.27.26:267][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Collections/' took 0.01s
+[2018.01.15-17.27.26:267][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/Developers/gameruouqzwh/Collections/' took 0.01s
+[2018.01.15-17.27.26:267][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/Collections/' took 0.01s
+[2018.01.15-17.27.26:267][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.15-17.27.26:273][  0]LogContentBrowser: Native class hierarchy populated in 0.0060 seconds. Added 2363 classes and 519 folders.
+[2018.01.15-17.27.26:311][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.15-17.27.27:420][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.15-17.27.27:464][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.15-17.27.27:489][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.15-17.27.27:490][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.15-17.27.27:508][  0]LogSlate: Took 0.014799 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.15-17.27.27:632][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.01.15-17.27.27:645][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2018.01.15-17.27.27:767][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.15-17.27.27:768][  0]LogLoad: (Engine Initialization) Total time: 15.78 seconds
+[2018.01.15-17.27.27:768][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.15-17.27.27:768][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.15-17.27.28:125][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.15-17.27.28:196][  0]LogSlate: Took 0.026191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.15-17.27.29:111][  3]LogAssetRegistry: Asset discovery search completed in 11.9631 seconds
+[2018.01.15-17.27.29:116][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.15-17.27.29:116][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2018.01.15-17.27.29:126][  3]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.15-17.27.37:152][ 27]LogLinker: Warning: Can't resolve asset name
+[2018.01.15-17.27.37:156][ 27]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.15-17.27.37:462][ 27]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 116 classes and 0 folders.
+[2018.01.15-17.27.38:292][ 27]LogSlate: Took 0.016875 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.15-17.27.38:718][ 28]LogSlate: Took 0.014627 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.15-17.28.41:401][914]LogSlate: Took 0.003468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.01.15-17.43.58:983][398]LogSavePackage: Save=386.82ms
+[2018.01.15-17.43.58:983][398]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonExampleMap_Auto1AAA9A34C49E344776D736196CCBB8161.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.01.15-17.43.58:984][398]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.01.15-17.43.58:989][398]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.455
+[2018.01.15-17.43.58:989][398]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.455
+[2018.01.15-17.43.59:015][398]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode] ([1] browsable assets)...
+[2018.01.15-17.43.59:015][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
+[2018.01.15-17.43.59:046][398]LogSavePackage: Save=19.66ms
+[2018.01.15-17.43.59:046][398]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonGameMode_Auto1583BCDE14CAEF05AF90853A38C2C2373.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto1.uasset'
+[2018.01.15-17.43.59:048][398]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto1.uasset
+[2018.01.15-17.43.59:048][398]LogFileHelpers: Auto-saving content packages took 0.043
+[2018.01.15-17.46.34:201][388]LogSavePackage: Save=355.00ms
+[2018.01.15-17.46.34:201][388]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonExampleMapC7EE18524924943E706246A4A779AF55.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.15-17.46.34:210][388]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.15-17.46.34:281][388]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.516
+[2018.01.15-17.46.36:989][542]LogSavePackage: Save=18.16ms
+[2018.01.15-17.46.36:989][542]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonGameModeFDC9ED2E4D6056E4423CB5BD87747803.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.01.15-17.46.36:994][542]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.01.15-17.46.57:664][622]LogRenderer: Reallocating scene render targets to support 1268x744 Format 10 NumSamples 1 (Frame:1).
+[2018.01.15-17.47.33:893][899]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2018.01.15-17.47.33:936][899]LogBlueprint: Warning: [Compiler Zombie] Get : 'Zombies Left' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/Zombie.Zombie
+[2018.01.15-17.47.33:939][899]LogBlueprint: Warning: [Compiler HUD] Get : 'Zombies Left' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/HUD.HUD
+[2018.01.15-17.47.33:939][899]LogBlueprint: Warning: [Compiler HUD] Get : 'Wave' variable not found. Base class was probably changed. /Game/ThirdPersonBP/Blueprints/HUD.HUD
+[2018.01.15-17.47.33:962][899]LogBlueprint: Warning: [Compiler HUD] Could not find a variable named "Zombies Left" in 'ThirdPersonGameMode_C'.
+Make sure 'ThirdPersonGameMode_C' has been compiled for  Get Zombies Left
+[2018.01.15-17.47.33:963][899]LogBlueprint: Warning: [Compiler HUD] Could not find a variable named "Wave" in 'ThirdPersonGameMode_C'.
+Make sure 'ThirdPersonGameMode_C' has been compiled for  Get Wave
+[2018.01.15-17.47.33:967][899]LogBlueprint: Warning: [Compiler Zombie] Could not find a variable named "Zombies Left" in 'ThirdPersonGameMode_C'.
+Make sure 'ThirdPersonGameMode_C' has been compiled for  Get Zombies Left
+[2018.01.15-17.47.33:988][899]LogBlueprint: Error: [Compiler HUD] The property associated with  Zombies Left  could not be found
+[2018.01.15-17.47.33:988][899]LogBlueprint: Error: [Compiler HUD] The property associated with  Wave  could not be found
+[2018.01.15-17.47.34:035][899]LogBlueprint: Error: [Compiler Zombie] The property associated with  Zombies Left  could not be found
+[2018.01.15-17.47.34:102][899]LogBlueprint: Warning: [Compiler HUD] [1222.12] Compile of HUD failed. 2 Fatal Issue(s) 4 Warning(s) [in 208 ms] (/Game/ThirdPersonBP/Blueprints/HUD.HUD)
+[2018.01.15-17.47.34:102][899]LogBlueprint: Warning: [Compiler Zombie] [1222.12] Compile of Zombie failed. 1 Fatal Issue(s) 2 Warning(s) [in 208 ms] (/Game/ThirdPersonBP/Blueprints/Zombie.Zombie)
+[2018.01.15-17.47.38:749][257]LogSavePackage: Save=7.01ms
+[2018.01.15-17.47.38:749][257]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonGameMode4649F7E24861CEFB0D728B99C965E0F1.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.01.15-17.47.38:752][257]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.01.15-17.47.41:620][470]LogSavePackage: Save=278.41ms
+[2018.01.15-17.47.41:620][470]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonExampleMap0D5A93E649C32B8BDE230EBB8D0C916A.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.15-17.47.41:623][470]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.15-17.47.41:650][470]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.380
+[2018.01.15-17.49.00:637][229]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.15-17.49.00:815][229]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.15-17.49.00:827][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-17.57.42:020][803]LogSavePackage: Save=293.99ms
+[2018.01.15-17.57.42:020][803]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonExampleMap_Auto2CE4B53A9466B299EF59172B43776F9EE.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.01.15-17.57.42:022][803]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2018.01.15-17.57.42:023][803]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.331
+[2018.01.15-17.57.42:023][803]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.331
+[2018.01.15-17.57.42:034][803]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD] ([1] browsable assets)...
+[2018.01.15-17.57.42:034][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD]
+[2018.01.15-17.57.42:121][803]LogSavePackage: Save=79.52ms
+[2018.01.15-17.57.42:121][803]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/HUD_Auto2A5D1B38D4C20901291FEEDA97AE93582.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Auto2.uasset'
+[2018.01.15-17.57.42:123][803]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Auto2.uasset
+[2018.01.15-17.57.42:123][803]LogFileHelpers: Auto-saving content packages took 0.090
+[2018.01.15-18.07.49:230][335]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.020
+[2018.01.15-18.07.49:232][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD] ([1] browsable assets)...
+[2018.01.15-18.07.49:232][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD]
+[2018.01.15-18.07.49:319][335]LogSavePackage: Save=77.63ms
+[2018.01.15-18.07.49:319][335]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/HUD_Auto3E771C9F54CA91A0A1BF054AEA3E4CD71.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Auto3.uasset'
+[2018.01.15-18.07.49:321][335]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Auto3.uasset
+[2018.01.15-18.07.49:321][335]LogFileHelpers: Auto-saving content packages took 0.090
+[2018.01.15-18.19.02:544][ 95]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] The property associated with  <Unnamed>  could not be found
+[2018.01.15-18.19.02:544][ 95]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] The property associated with  Old Zombies Left  could not be found
+[2018.01.15-18.19.02:544][ 95]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] The property associated with  Zombies Left  could not be found
+[2018.01.15-18.19.02:544][ 95]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] The property associated with  Wave  could not be found
+[2018.01.15-18.19.02:544][ 95]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] The property associated with  Old Zombies Left  could not be found
+[2018.01.15-18.19.02:545][ 95]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [3110.56] Compile of PersistentLevel.ThirdPersonExampleMap failed. 5 Fatal Issue(s) 0 Warning(s) [in 10 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.01.15-18.19.02:853][ 95]LogSavePackage: Save=326.64ms
+[2018.01.15-18.19.02:853][ 95]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonExampleMap_Auto4F1E96E98485CFEE273F015A3565B2549.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2018.01.15-18.19.02:855][ 95]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2018.01.15-18.19.02:861][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.369
+[2018.01.15-18.19.02:861][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.369
+[2018.01.15-18.19.02:871][ 95]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD] ([1] browsable assets)...
+[2018.01.15-18.19.02:871][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD]
+[2018.01.15-18.19.02:956][ 95]LogSavePackage: Save=77.88ms
+[2018.01.15-18.19.02:956][ 95]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/HUD_Auto43EA76FF5488EB608E94548AECFE0D9ED.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Auto4.uasset'
+[2018.01.15-18.19.02:957][ 95]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Auto4.uasset
+[2018.01.15-18.19.02:957][ 95]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode] ([1] browsable assets)...
+[2018.01.15-18.19.02:957][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
+[2018.01.15-18.19.02:973][ 95]LogSavePackage: Save=7.15ms
+[2018.01.15-18.19.02:973][ 95]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonGameMode_Auto4F8CE43D14AF91A92709FB5B964FBE11D.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto4.uasset'
+[2018.01.15-18.19.02:974][ 95]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto4.uasset
+[2018.01.15-18.19.02:974][ 95]LogFileHelpers: Auto-saving content packages took 0.104
+[2018.01.15-18.22.37:657][988]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2018.01.15-18.22.55:942][926]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.01.15-18.22.55:981][926]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] Failed to resolve term  Value  passed into  Target
+[2018.01.15-18.22.56:068][926]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [3344.09] Compile of PersistentLevel.ThirdPersonExampleMap failed. 1 Fatal Issue(s) 0 Warning(s) [in 126 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2018.01.15-18.27.25:222][285]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.01.15-18.27.28:076][549]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2018.01.15-18.29.09:908][ 52]LogSavePackage: Save=292.69ms
+[2018.01.15-18.29.09:908][ 52]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonExampleMap_Auto55139EF8542AF5A1CFDA90AA2C4B017B2.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2018.01.15-18.29.09:910][ 52]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap
+[2018.01.15-18.29.09:914][ 52]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.333
+[2018.01.15-18.29.09:914][ 52]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.333
+[2018.01.15-18.29.09:915][ 52]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.01.15-18.29.09:956][ 52]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.01.15-18.29.09:956][ 52]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.01.15-18.29.10:204][ 52]LogSavePackage: Save=239.19ms
+[2018.01.15-18.29.10:204][ 52]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonCharacter_Auto52D6004064EB6ACDF35A36EA626B3B593.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset'
+[2018.01.15-18.29.10:205][ 52]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset
+[2018.01.15-18.29.10:206][ 52]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD] ([1] browsable assets)...
+[2018.01.15-18.29.10:206][ 52]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD]
+[2018.01.15-18.29.10:292][ 52]LogSavePackage: Save=78.96ms
+[2018.01.15-18.29.10:292][ 52]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/HUD_Auto5996C2E99479CF44567BF24A07CAD1A3D.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Auto5.uasset'
+[2018.01.15-18.29.10:293][ 52]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Auto5.uasset
+[2018.01.15-18.29.10:294][ 52]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode] ([1] browsable assets)...
+[2018.01.15-18.29.10:294][ 52]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
+[2018.01.15-18.29.10:308][ 52]LogSavePackage: Save=7.05ms
+[2018.01.15-18.29.10:308][ 52]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonGameMode_Auto56369D8BD406A3AEB937337BAA595F67B.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto5.uasset'
+[2018.01.15-18.29.10:309][ 52]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto5.uasset
+[2018.01.15-18.29.10:309][ 52]LogFileHelpers: Auto-saving content packages took 0.394
+[2018.01.15-18.29.11:503][177]LogSavePackage: Save=6.91ms
+[2018.01.15-18.29.11:503][177]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonGameMode85967AF94C5D6C42BB1C459F44DB326C.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.01.15-18.29.11:509][177]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.01.15-18.29.13:118][281]LogSavePackage: Save=229.12ms
+[2018.01.15-18.29.13:118][281]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/ThirdPersonCharacter6FA449A04CE7B04594DC6A8C1A6CCCD3.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.01.15-18.29.13:122][281]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.01.15-18.29.13:694][316]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.01.15-18.29.18:291][630]BlueprintLog: New page: Compile HUD
+[2018.01.15-18.29.21:631][866]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.15-18.29.21:659][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.15-18.29.21:659][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.15-18.29.32:092][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HUD" FILE="C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/HUD.uasset" SILENT=true
+[2018.01.15-18.29.32:181][420]LogSavePackage: Save=84.92ms
+[2018.01.15-18.29.32:181][420]LogSavePackage: Moving 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Saved/HUD038E1BEB403DF3D617B56F998995B960.tmp' to 'C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/HUD.uasset'
+[2018.01.15-18.29.32:185][420]LogSavePackage: Display: Finished SavePackage C:/Users/gamer_uouqzwh/Documents/GitHub/UE4-FPS-Project/fpstutorial/Content/ThirdPersonBP/Blueprints/HUD.uasset
+[2018.01.15-18.29.42:661][331]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.01.15-18.29.43:270][331]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.609 s
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: === Handled ensure: ===
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: 
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: Stack: 
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x00000000BEE02786 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x00000000BEBA123A UE4Editor-Core.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x00000000BEBBB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x00000000922833F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x000000008EF203AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x000000008E323EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x000000008E1B74AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x000000008E1BABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x000000008E2E8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x00000000A8F47397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x00000000A8F4CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x00000000A9189913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x00000000A8FA3484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x00000000A8F7B68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x00000000A8F6D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x00000000D621E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x00000000D6211A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x00000000D62203EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x00000000D620D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x00000000E531B85D USER32.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x00000000E531B1EF USER32.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x00000000D6221516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x000000007D8D50C8 UE4Editor.exe!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x000000007D8E5430 UE4Editor.exe!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x000000007D8E54AA UE4Editor.exe!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x000000007D8F2379 UE4Editor.exe!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x000000007D8F3D57 UE4Editor.exe!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x00000000E56C1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: [Callstack] 0x00000000E59DEF91 ntdll.dll!UnknownFunction []
+[2018.01.15-18.29.43:270][331]LogOutputDevice: Error: 
+[2018.01.15-18.29.43:281][331]LogStats:                SubmitErrorReport -  0.000 s
